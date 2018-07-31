@@ -7,6 +7,7 @@ import java.net.URLClassLoader;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.ServiceLoader;
+import com.github.drjoliv.spi.*;
 
 public final class PluginManager {
 
